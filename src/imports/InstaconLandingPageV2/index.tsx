@@ -1,4 +1,5 @@
 import svgPaths from "./svg-6whsae05as";
+import heroVideo from "./Instacon.mp4";
 import imgImage812 from "./477bb1ead533139a364b97591c35aa762f8c91f0.png";
 import imgExpertiseImage from "./be6d2bf3afa82c9fb90f88cefdf3e95845a07993.png";
 import imgWhatsAppImage20250916At1133421F8425A91 from "./36b1e79b764e5320c8775146b6ba7a9ce5d31f7c.png";
@@ -1217,7 +1218,7 @@ function ParagraphBackgroundBorder() {
       <div className="-translate-y-1/2 absolute flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[24px] justify-center left-[60px] text-[#d1d1d1] text-[16px] top-[42px] w-[163.417px]">
         <p className="leading-[24px]">What Our Client Says</p>
       </div>
-      <div className="-translate-y-1/2 absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[233.59px] justify-center left-[30px] text-[64px] text-[transparent] top-[188.79px] w-[725.2px]" style={{ backgroundImage: "linear-gradient(-80.7173deg, rgba(209, 209, 209, 0) 15.117%, rgb(209, 209, 209) 100.01%)" }}>
+      <div className="-translate-y-1/2 absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[233.59px] justify-center left-[30px] text-[64px] text-[transparent] top-[188.79px] w-[725.2px]" style={{ backgroundImage: "linear-gradient(-80.7173deg, rgba(209, 209, 209, 0) 1.117%, rgb(209, 209, 209) 100.01%)" }}>
         <p className="leading-[76.8px] mb-0">Hear from Our Satisfied</p>
         <p className="leading-[76.8px] mb-0">Clients, Real Success</p>
         <p className="leading-[76.8px]">Stories</p>
@@ -1756,6 +1757,14 @@ function BackgroundBorder12() {
   return (
     <div className="absolute h-[631.97px] left-[30px] right-[30px] rounded-[25px] top-[3190.77px]" data-name="Background+Border">
       <div className="overflow-clip relative rounded-[inherit] size-full">
+        <video
+          className="absolute inset-0 size-full object-cover"
+          src={heroVideo}
+          autoPlay
+          loop
+          muted
+          playsInline
+        />
         <div className="absolute bg-gradient-to-b from-[rgba(4,4,4,0.49)] inset-[0.04%_0.05%_0.12%_0.05%] to-[#040404]" data-name="Gradient" />
         <Container16 />
       </div>
@@ -1902,7 +1911,15 @@ function BackgroundBorder13() {
 function Iframe() {
   return (
     <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[1046.25px] left-1/2 overflow-clip top-[calc(50%-0.01px)] w-[1860px]" data-name="Iframe">
-      <div className="absolute h-[875px] left-0 top-[85.84px] w-[1860px]" data-name="Marko Video Background 1" />
+      <video
+        className="absolute h-[875px] left-0 top-[85.84px] w-[1860px] object-cover"
+        src={heroVideo}
+        autoPlay
+        loop
+        muted
+        playsInline
+        data-name="Marko Video Background 1"
+      />
       <div className="absolute bg-[rgba(0,0,0,0.69)] h-[875px] left-0 top-[85.84px] w-[1860px]" data-name="Marko Video Background 2" />
     </div>
   );
@@ -2288,7 +2305,7 @@ function Group17() {
         <p className="leading-[27px]">Questions about our products/services, orders, or just want to say hello? We’re here to help . Stay informed with expert tips, design trends, and construction insights.</p>
       </div>
       <Group13 />
-      <div className="absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold inset-[11%_60.89%_74.13%_19.34%] justify-center text-[64px] text-[transparent]" style={{ backgroundImage: "linear-gradient(-84.732deg, rgba(209, 209, 209, 0) 11.16%, rgb(209, 209, 209) 99.894%)" }}>
+      <div className="absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold inset-[11%_60.89%_74.13%_19.34%] justify-center text-[64px] text-[transparent]" style={{ backgroundImage: "linear-gradient(-84.732deg, rgba(209, 209, 209, 0) 1.16%, rgb(209, 209, 209) 99.894%)" }}>
         <p className="leading-[76.8px]">Lets Have a Chat</p>
       </div>
     </div>
@@ -3014,7 +3031,7 @@ function Background19() {
       <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[24px] justify-center leading-[0] left-[80px] text-[#d1d1d1] text-[16px] top-[62px] w-[101.987px]">
         <p className="leading-[24px]">Case Studies</p>
       </div>
-      <div className="-translate-y-1/2 [word-break:break-word] absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[156.79px] justify-center leading-[0] left-[50px] text-[64px] text-[transparent] top-[170.39px] " style={{ backgroundImage: "linear-gradient(-79.6069deg, rgba(209, 209, 209, 0) 15.117%, rgb(209, 209, 209) 100.01%)" }}>
+      <div className="-translate-y-1/2 [word-break:break-word] absolute bg-clip-text flex flex-col font-['Plus_Jakarta_Sans:Bold',sans-serif] font-bold h-[156.79px] justify-center leading-[0] left-[50px] text-[64px] text-[transparent] top-[170.39px] " style={{ backgroundImage: "linear-gradient(-79.6069deg, rgba(209, 209, 209, 0) 1.117%, rgb(209, 209, 209) 100.01%)" }}>
         <p className="leading-[76.8px] mb-0">See How We Help</p>
         <p className="leading-[76.8px]">Businesses Thrive</p>
       </div>
