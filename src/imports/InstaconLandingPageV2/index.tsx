@@ -2373,7 +2373,7 @@ function Border2() {
 function Link26() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[91.78px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[92.122px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[92.122px]">
         <p className="leading-[24px]">Retargeting</p>
       </div>
     </div>
@@ -2516,7 +2516,7 @@ function Link32() {
 function Link33() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[64.09px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[64.487px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[64.487px]">
         <p className="leading-[24px]">Content</p>
       </div>
     </div>
@@ -2534,8 +2534,8 @@ function Border8() {
 function Link34() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[97.13px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[97.48px]">
-        <p className="leading-[24px]">Linkeind Ads</p>
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px]">
+        <p className="leading-[24px]">LinkedIn Ads</p>
       </div>
     </div>
   );
@@ -2552,7 +2552,7 @@ function Border9() {
 function Link35() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[41.42px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[41.746px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[41.746px]">
         <p className="leading-[24px]">Email</p>
       </div>
     </div>
@@ -2570,7 +2570,7 @@ function Border10() {
 function Link36() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[64.44px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[64.838px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[64.838px]">
         <p className="leading-[24px]">Webinar</p>
       </div>
     </div>
@@ -2588,7 +2588,7 @@ function Border11() {
 function Link37() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[61.75px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[62.14px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[62.14px]">
         <p className="leading-[24px]">Landing</p>
       </div>
     </div>
@@ -2606,7 +2606,7 @@ function Border12() {
 function Link38() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[36.89px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[37.202px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[37.202px]">
         <p className="leading-[24px]">CRM</p>
       </div>
     </div>
@@ -2624,7 +2624,7 @@ function Border13() {
 function Link39() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[91.78px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[92.122px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[92.122px]">
         <p className="leading-[24px]">Retargeting</p>
       </div>
     </div>
@@ -2691,7 +2691,7 @@ function Border15() {
 function Link41() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[65.58px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[65.881px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px]">
         <p className="leading-[24px]">PPC Ads</p>
       </div>
     </div>
@@ -2781,7 +2781,7 @@ function Border20() {
 function Link46() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[41.42px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[41.746px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[41.746px]">
         <p className="leading-[24px]">Email</p>
       </div>
     </div>
@@ -2850,7 +2850,7 @@ function Link48() {
 function Link49() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[33.8px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[34.103px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px]">
         <p className="leading-[24px]">Viral</p>
       </div>
     </div>
@@ -2886,7 +2886,7 @@ function Border23() {
 function Link51() {
   return (
     <div className="absolute h-[21px] left-[15px] top-[4px] w-[20.81px]" data-name="Link">
-      <div className="-translate-y-1/2 [word-break:break-word] absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px] w-[21.134px]">
+      <div className="-translate-y-1/2 whitespace-nowrap absolute flex flex-col font-['Plus_Jakarta_Sans:SemiBold',sans-serif] font-semibold h-[21px] justify-center leading-[0] left-0 text-[#d1d1d1] text-[16px] top-[10.5px]">
         <p className="leading-[24px]">PR</p>
       </div>
     </div>
