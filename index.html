@@ -9,6 +9,17 @@
       <meta name="description" content="Effortlessly transform Figma designs into pixel-perfect web applications, ensuring precise visual fidelity and responsive behavior for developers and designers." />
       <meta name="robots" content="noindex, nofollow" />
       <style>html, body { height: 100%; margin: 0; } #root { height: 100%; }</style>
+
+      <!-- Preconnect to Google Fonts to eliminate DNS + TLS round-trip delay -->
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+      <!-- Load Plus Jakarta Sans directly from <head> instead of a blocking CSS @import -->
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" />
+
+      <!-- Preload local Font Awesome woff2 files so icons show on first paint -->
+      <link rel="preload" href="/src/assets/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin />
+      <link rel="preload" href="/src/assets/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin />
+      <link rel="preload" href="/src/assets/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin />
       
     </head>
 

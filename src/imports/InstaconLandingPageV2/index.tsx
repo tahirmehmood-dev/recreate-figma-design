@@ -1764,6 +1764,7 @@ function BackgroundBorder12() {
           loop
           muted
           playsInline
+          preload="auto"
         />
         <div className="absolute bg-gradient-to-b from-[rgba(4,4,4,0.49)] inset-[0.04%_0.05%_0.12%_0.05%] to-[#040404]" data-name="Gradient" />
         <Container16 />
@@ -1918,6 +1919,7 @@ function Iframe() {
         loop
         muted
         playsInline
+        preload="auto"
         data-name="Marko Video Background 1"
       />
       <div className="absolute bg-[rgba(0,0,0,0.69)] h-[875px] left-0 top-[85.84px] w-[1860px]" data-name="Marko Video Background 2" />
