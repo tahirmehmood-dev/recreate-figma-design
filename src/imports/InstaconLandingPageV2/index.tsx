@@ -1,5 +1,4 @@
 import svgPaths from "./svg-6whsae05as";
-import heroVideo from "./Instacon.mp4";
 import imgImage812 from "./477bb1ead533139a364b97591c35aa762f8c91f0.png";
 import imgExpertiseImage from "./be6d2bf3afa82c9fb90f88cefdf3e95845a07993.png";
 import imgWhatsAppImage20250916At1133421F8425A91 from "./36b1e79b764e5320c8775146b6ba7a9ce5d31f7c.png";
@@ -1759,7 +1758,7 @@ function BackgroundBorder12() {
       <div className="overflow-clip relative rounded-[inherit] size-full">
         <video
           className="absolute inset-0 size-full object-cover"
-          src={heroVideo}
+          src="/videos/Instacon.mp4"
           autoPlay
           loop
           muted
@@ -1914,7 +1913,7 @@ function Iframe() {
     <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[1046.25px] left-1/2 overflow-clip top-[calc(50%-0.01px)] w-[1860px]" data-name="Iframe">
       <video
         className="absolute h-[875px] left-0 top-[85.84px] w-[1860px] object-cover"
-        src={heroVideo}
+        src="/videos/Instacon.mp4"
         autoPlay
         loop
         muted
