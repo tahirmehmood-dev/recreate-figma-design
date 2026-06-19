@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap');
+
+@font-face {
+  font-family: "Font_Awesome_5_Free:Solid";
+  font-style: normal;
+  font-weight: 900;
+  font-display: block;
+  src: url("../assets/webfonts/fa-solid-900.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Font_Awesome_5_Free:Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../assets/webfonts/fa-regular-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Font_Awesome_5_Brands:Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../assets/webfonts/fa-brands-400.woff2") format("woff2");
+}
+
+/* Figma Make exports these as arbitrary Tailwind font classes. Force the
+   exact class fragments to use the locally vendored Font Awesome files. */
+[class*="Font_Awesome_5_Free:Solid"] {
+  font-family: "Font_Awesome_5_Free:Solid" !important;
+  font-weight: 900 !important;
+}
+
+[class*="Font_Awesome_5_Free:Regular"] {
+  font-family: "Font_Awesome_5_Free:Regular" !important;
+  font-weight: 400 !important;
+}
+
+[class*="Font_Awesome_5_Brands:Regular"] {
+  font-family: "Font_Awesome_5_Brands:Regular" !important;
+  font-weight: 400 !important;
+}
