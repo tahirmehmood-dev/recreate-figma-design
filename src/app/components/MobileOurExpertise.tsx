@@ -67,7 +67,7 @@ export default function MobileOurExpertise() {
             >
               21
             </span>
-            <span className="mt-1 text-[36px] font-normal leading-none text-[#040404]">+</span>
+            <span className="mt-1 text-[36px] font-bold leading-none" style={{ WebkitTextStroke: "2px #FFBE0B", color: "transparent" }}>+</span>
           </div>
           {/* Label */}
           <p className="mt-[14px] text-[15px] font-bold leading-[1.55] text-[#d1d1d1]">
