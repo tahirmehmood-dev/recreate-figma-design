@@ -45,7 +45,7 @@ export default function MobileFooter() {
             className="flex size-9 items-center justify-center rounded-[10px] border border-[#1F1F1F] bg-[#0E0E0E] text-[14px] text-[#8B8B8B] transition-colors hover:border-[#FFBE0B] hover:text-[#FFBE0B]"
             style={{ fontFamily: FA_BRANDS }}
           >
-            <span aria-hidden="true">{``}</span>
+            <span aria-hidden="true">{""}</span>
           </a>
 
           {/* Twitter */}
@@ -55,7 +55,7 @@ export default function MobileFooter() {
             className="flex size-9 items-center justify-center rounded-[10px] border border-[#1F1F1F] bg-[#0E0E0E] text-[14px] text-[#8B8B8B] transition-colors hover:border-[#FFBE0B] hover:text-[#FFBE0B]"
             style={{ fontFamily: FA_BRANDS }}
           >
-            <span aria-hidden="true">{``}</span>
+            <span aria-hidden="true">{""}</span>
           </a>
 
           {/* LinkedIn */}
@@ -65,7 +65,7 @@ export default function MobileFooter() {
             className="flex size-9 items-center justify-center rounded-[10px] border border-[#1F1F1F] bg-[#0E0E0E] text-[14px] text-[#8B8B8B] transition-colors hover:border-[#FFBE0B] hover:text-[#FFBE0B]"
             style={{ fontFamily: FA_BRANDS }}
           >
-            <span aria-hidden="true">{``}</span>
+            <span aria-hidden="true">{""}</span>
           </a>
 
           {/* Instagram */}
@@ -75,7 +75,7 @@ export default function MobileFooter() {
             className="flex size-9 items-center justify-center rounded-[10px] border border-[#1F1F1F] bg-[#0E0E0E] text-[14px] text-[#8B8B8B] transition-colors hover:border-[#FFBE0B] hover:text-[#FFBE0B]"
             style={{ fontFamily: FA_BRANDS }}
           >
-            <span aria-hidden="true">{``}</span>
+            <span aria-hidden="true">{""}</span>
           </a>
         </div>
       </div>
@@ -94,7 +94,7 @@ export default function MobileFooter() {
                   className="text-[11px] text-[#FFBE0B]"
                   style={{ fontFamily: FA_SOLID }}
                   aria-hidden="true"
-                >{``}</span>
+                >{""}</span>
                 {link}
               </a>
             </li>
@@ -112,7 +112,7 @@ export default function MobileFooter() {
               className="text-[13px] text-[#FFBE0B]"
               style={{ fontFamily: FA_SOLID }}
               aria-hidden="true"
-            >{``}</span>
+            >{""}</span>
             <span className="text-[14px] text-[#8B8B8B]">+92 987 75463</span>
           </div>
 
@@ -122,7 +122,7 @@ export default function MobileFooter() {
               className="text-[13px] text-[#FFBE0B]"
               style={{ fontFamily: FA_SOLID }}
               aria-hidden="true"
-            >{``}</span>
+            >{""}</span>
             <span className="text-[14px] text-[#8B8B8B]">
               hello@markoagency.com
             </span>
@@ -134,7 +134,7 @@ export default function MobileFooter() {
               className="mt-[2px] text-[13px] text-[#FFBE0B]"
               style={{ fontFamily: FA_SOLID }}
               aria-hidden="true"
-            >{``}</span>
+            >{""}</span>
             <span className="text-[14px] leading-[1.6] text-[#8B8B8B]">
               123 Digital Street, New York, USA
             </span>
@@ -166,4 +166,5 @@ export default function MobileFooter() {
     </footer>
   );
 }
+
 

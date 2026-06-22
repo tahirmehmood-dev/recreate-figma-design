@@ -34,7 +34,7 @@ export default function MobileContact() {
           className="text-[13px] text-[#FFBE0B]"
           style={{ fontFamily: FA_REGULAR }}
           aria-hidden="true"
-        >{``}</span>
+        >{""}</span>
         <span className="text-[13px] font-semibold uppercase tracking-[0.12em] text-[#FFBE0B]">
           Contact Us
         </span>
@@ -61,7 +61,7 @@ export default function MobileContact() {
             className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[rgba(255,190,11,0.12)] text-[14px] text-[#FFBE0B]"
             style={{ fontFamily: FA_SOLID }}
             aria-hidden="true"
-          >{``}</span>
+          >{""}</span>
           <span className="text-[14px] font-medium text-[#D1D1D1]">
             +92 987 75463
           </span>
@@ -73,7 +73,7 @@ export default function MobileContact() {
             className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[rgba(255,190,11,0.12)] text-[14px] text-[#FFBE0B]"
             style={{ fontFamily: FA_SOLID }}
             aria-hidden="true"
-          >{``}</span>
+          >{""}</span>
           <span className="text-[14px] font-medium text-[#D1D1D1]">
             hello@markoagency.com
           </span>
@@ -85,7 +85,7 @@ export default function MobileContact() {
             className="flex size-10 shrink-0 items-center justify-center rounded-full bg-[rgba(255,190,11,0.12)] text-[14px] text-[#FFBE0B]"
             style={{ fontFamily: FA_SOLID }}
             aria-hidden="true"
-          >{``}</span>
+          >{""}</span>
           <span className="text-[14px] font-medium text-[#D1D1D1]">
             123 Digital Street, New York, USA
           </span>
@@ -100,7 +100,7 @@ export default function MobileContact() {
               className="text-[40px] text-[#FFBE0B]"
               style={{ fontFamily: FA_SOLID }}
               aria-hidden="true"
-            >{``}</span>
+            >{""}</span>
             <p className="text-[17px] font-bold text-[#D1D1D1]">
               Message Sent!
             </p>
@@ -207,4 +207,5 @@ export default function MobileContact() {
     </section>
   );
 }
+
 
