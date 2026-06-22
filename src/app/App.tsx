@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, useEffect } from "react";
 import InstaconLandingPageV from "@/imports/InstaconLandingPageV2/index";
 import HeaderNav from "@/imports/Header→Nav/index";
@@ -7,11 +9,7 @@ const DESIGN_WIDTH = 1920;
 const DESIGN_HEIGHT = 12600;
 
 export default function App() {
-  const [scale, setScale] = useState(() =>
-    typeof window !== "undefined"
-      ? Math.min(1, window.innerWidth / DESIGN_WIDTH)
-      : 1
-  );
+  const [scale, setScale] = useState(1);
 
   useEffect(() => {
     const update = () =>

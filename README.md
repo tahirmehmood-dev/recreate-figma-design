@@ -1,11 +1,20 @@
 
-  # Recreate Figma Design
+# Instacon Frontend
 
-  This is a code bundle for Recreate Figma Design. The original project is available at https://www.figma.com/design/XYeuxjI9JlfbGNKYriwdcg/Recreate-Figma-Design.
+This landing page runs on Next.js 15 with the App Router, React 18, Tailwind CSS 4, and TypeScript.
 
-  ## Running the code
+## Development
 
-  Run `npm i` to install the dependencies.
+Install dependencies and start the development server:
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+npm install
+npm run dev
+```
+
+Create and serve a production build:
+
+```bash
+npm run build
+npm start
+```

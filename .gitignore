@@ -4,6 +4,8 @@ node_modules/
 .pnp.js
 
 # Build output
+.next/
+*.tsbuildinfo
 dist/
 dist-ssr/
 build/
