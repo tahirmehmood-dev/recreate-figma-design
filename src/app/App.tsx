@@ -58,7 +58,7 @@ export default function App() {
         {/* Header nav — topmost layer */}
         <div
           className="absolute rounded-[25px] z-50"
-          style={{ top: 30, left: 30, right: 30, height: 88 }}
+          style={{ top: 30, left: 30, width: 1860, height: 101 }}
         >
           <HeaderNav />
         </div>
